@@ -36,4 +36,4 @@ Complete **CATIA Works** environment offering premium 3D modeling, material edit
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion. 
+> This repository is provided for educational and utility purposes only. Use at your own discretion.  
